@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\TITpe21\Week3Exercises\Weather\bin\Debug\netcoreapp3.1\Weather.exe
+C:\Users\opilane\source\repos\TITpe21\Week3Exercises\Weather\bin\Debug\netcoreapp3.1\Weather.deps.json
+C:\Users\opilane\source\repos\TITpe21\Week3Exercises\Weather\bin\Debug\netcoreapp3.1\Weather.runtimeconfig.json
+C:\Users\opilane\source\repos\TITpe21\Week3Exercises\Weather\bin\Debug\netcoreapp3.1\Weather.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\TITpe21\Week3Exercises\Weather\bin\Debug\netcoreapp3.1\Weather.dll
+C:\Users\opilane\source\repos\TITpe21\Week3Exercises\Weather\bin\Debug\netcoreapp3.1\Weather.pdb
+C:\Users\opilane\source\repos\TITpe21\Week3Exercises\Weather\obj\Debug\netcoreapp3.1\Weather.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\TITpe21\Week3Exercises\Weather\obj\Debug\netcoreapp3.1\Weather.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\TITpe21\Week3Exercises\Weather\obj\Debug\netcoreapp3.1\Weather.AssemblyInfo.cs
+C:\Users\opilane\source\repos\TITpe21\Week3Exercises\Weather\obj\Debug\netcoreapp3.1\Weather.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\TITpe21\Week3Exercises\Weather\obj\Debug\netcoreapp3.1\Weather.dll
+C:\Users\opilane\source\repos\TITpe21\Week3Exercises\Weather\obj\Debug\netcoreapp3.1\Weather.pdb
+C:\Users\opilane\source\repos\TITpe21\Week3Exercises\Weather\obj\Debug\netcoreapp3.1\Weather.genruntimeconfig.cache
